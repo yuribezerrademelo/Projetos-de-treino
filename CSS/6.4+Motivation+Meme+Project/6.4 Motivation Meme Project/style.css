@@ -1,0 +1,20 @@
+* {
+    background-color: black;
+  }
+
+.T1 {
+  font-family: "Caveat", cursive;
+  color: white;
+    }
+
+.abs{
+    margin-top: 5%;
+    text-align: center;
+    }
+
+.img1{
+    border: white solid 5px;
+    border-radius: 5px;
+    width: 55%;
+    height: 450px;
+     }
